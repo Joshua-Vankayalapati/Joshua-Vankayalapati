@@ -15,14 +15,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Joshua-Vankayalapati&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=Joshua-Vankayalapati&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)                                                            ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-Vankayalapati&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=Joshua-Vankayalapati&icon=0&color=11)](https://visitcount.itsvg.in)
-
   ## 💡 Your Generosity Drives Innovation
 Thank you for your support! Your contributions help fuel my projects and enable me to bring new ideas to life. I sincerely appreciate your generosity and am grateful for your encouragement. Every donation makes a difference and inspires me to continue creating and innovating.
 
