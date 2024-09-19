@@ -1,6 +1,7 @@
 # 👋 Hello! I'm Joshua Vankayalapati 
 💻 Full Stack (MEAN) Java Developer with 2 years of experience.<br>🌐 Freelancing and web development expertise.<br>🤝 Actively collaborate on GitHub, contributing to open-source projects.<br>📚 Currently expanding my skills with the MERN stack, Python, Figma, and Wix.
 
+[![](https://visitcount.itsvg.in/api?id=svsvsvds&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jtufadxzGM) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joshuavankayalapati) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5860245) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Joshua-Vankayalapati) 
