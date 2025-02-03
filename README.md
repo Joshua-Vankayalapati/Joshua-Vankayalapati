@@ -24,3 +24,9 @@ Thank you for your support! Your contributions help fuel my projects and enable 
 
   <br/> [![](https://visitcount.itsvg.in/api?id=svsvsvds&icon=0&color=1)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Joshua-Vankayalapati/count.svg?"  />
+</div>
+
+###
